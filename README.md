@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @raahimz, as of now I'm 16 years old... Alongside school, I am actively indulged in programming. Any and every thing related to tech just gives me pure joy!
+- 👋 Hi, I’m @raahimz, as of now I'm 17 years old... Alongside school, I am actively indulged in programming. Any and every thing related to tech just gives me pure joy!
 
 - 👀 I’m interested in anything related to IT.
-- 🌱 I’m currently learning MERN Web Development, Automation with Python and Microsoft Azure administration.
-- 💞️ I’m looking to collaborate on any small or large projects related to Web Development and Python.
+- 🌱 I’m currently learning various things, like front-end/back-end development, Python, Rust, Typescript etc.
+- 💞️ I’m looking to collaborate on any small or large projects.
 - 📫 Reach me at: Gmail - raahim.home@gmail.com | Discord - raahimz#5716 
 
 <!---
